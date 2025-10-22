@@ -17,7 +17,7 @@ jobs:
 
 
           - name: Run extract.py
-            run: python exract.py
+            run: python extract.py
 
    transform-job:
        runs-on: ubuntu-latest
